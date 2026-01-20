@@ -4,7 +4,7 @@ import eu.kanade.tachiyomi.multisrc.keyoapp.Keyoapp
 
 class ErisScans : Keyoapp(
     "Eris Scans",
-    "https://erisscans.com",
+    "https://erosxsun.xyz/",
     "en",
 ) {
     override val descriptionSelector: String = "div.grid > div.overflow-hidden > p"
